@@ -1,2 +1,2 @@
-# Hanabi
+# RhythmZ
 For Education(?)
